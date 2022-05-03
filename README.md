@@ -19,7 +19,7 @@
 <br>
 <hr>
    
-    - Updated an item
+    - Update an item
 
 <br>
 
