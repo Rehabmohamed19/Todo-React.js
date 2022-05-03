@@ -17,7 +17,6 @@
 ![Todo page](images/Add.png)
 
 <br>
-<hr>
    
     - Update an item
 
