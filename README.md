@@ -1,18 +1,41 @@
-# UI Responsive Site
+# Todo Responsive Site
+<b>The project contain langing page contain a Todo List</b>
 
-<b>The project contain langing page contain a music player</b>
+<br>
 
-![musicplayer page](imgs/music.png)
+![Todo page](images/Todo.png)
 
-- <b>Music player functionality</b>
-    - you can choose which song to play
-    - you can pause the audio from a button
-    - you can play songs randomly
-    - you can play songs sequentialy
-    - you can delete a song
-    
+<br>
+<hr>
 
-- <b>finally your welcome to our music player website</b>
+- <b>Todo List functionalities</b>
+
+    - you can Add Todos
+
+<br>
+
+![Todo page](images/Add.png)
+
+<br>
+<hr>
+   
+    - Updated an item
+
+<br>
+
+![Todo page](images/EditTodo.png)
+
+    - Updated item
+
+![Todo page](images/Edited.png)
+
+
+    - Delete an item
+
+![Todo page](images/Deleted.png)
+
+
+- <b>finally your welcome to our Todo website<b>
     
 
 
